@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "248001321187",
+    "firebase_url": "https://notificationandroid-56e09.firebaseio.com",
+    "project_id": "notificationandroid-56e09",
+    "storage_bucket": "notificationandroid-56e09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248001321187:android:67390e35b78a2986",
+        "android_client_info": {
+          "package_name": "com.smartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248001321187-tqki585c3qnnlnsui6s2cu45snj3m4r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATiwFgrxctgsT5nXept80y4sNhmmA5wPM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

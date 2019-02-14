@@ -1,0 +1,37 @@
+{
+  "name": "smartApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "native-base": "^2.10.0",
+    "react": "16.6.3",
+    "react-native": "0.57.8",
+    "react-native-button": "^2.3.0",
+    "react-native-extra-dimensions-android": "^1.0.0",
+    "react-native-fcm": "^16.2.3",
+    "react-native-firebase": "^5.2.0",
+    "react-native-gesture-handler": "^1.0.12",
+    "react-native-image-picker": "^0.28.0",
+    "react-native-maps": "^0.22.1",
+    "react-native-modal": "^7.0.2",
+    "react-native-modalbox": "^1.7.1",
+    "react-native-push-notification": "^3.1.2",
+    "react-native-simple-radio-button": "^2.7.3",
+    "react-native-update-gradle": "^1.1.0",
+    "react-native-vector-icons": "^6.1.0",
+    "react-navigation": "^3.0.9"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.51.0",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
